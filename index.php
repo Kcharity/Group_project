@@ -3,10 +3,7 @@
 
     <div class="container-fluid">
     <div class="row">
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-            <img src="food7.jpg" alt="">
-        </div>
-
+            <img src="lunch.jpg" alt="" style="width: 100%; height: 100%;background-size: cover">
     </div>
     </div>
     <?php include 'footer.php';?>
